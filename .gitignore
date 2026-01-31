@@ -1,2 +1,5 @@
 /node_modules
 .env
+mongodb+srv://tarunyasiva_db_user:YDjEjSwHqZNvRBjv@asset-tms-cluster0.j5gm1gt.mongodb.net/?appName=asset-tms-Cluster0
+mongodb+srv://tarunyasiva_db_user:YDjEjSwHqZNvRBjv@asset-tms-cluster0.j5gm1gt.mongodb.net/crms-db
+?retryWrites=true&w=majority
